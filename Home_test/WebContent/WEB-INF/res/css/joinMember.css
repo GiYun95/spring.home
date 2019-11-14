@@ -1,0 +1,27 @@
+	.well
+      {
+         padding: 35px;
+         padding-left: 30px;
+         margin: 2% auto 0;
+         width: 450px;
+      }
+	  .container-fluid{
+	  	padding-bottom: 4%;
+	  }
+	  .form-control{
+	  	border: 0px;
+	  }
+	  
+	  p{
+	  	background-color: white;
+	  	padding: 0px;
+	  	margin: 0px;"
+	  }
+
+      .input-group-addon
+      {
+      	background-color: #3c763d6b;
+      	color: black;
+      }
+      .btn btn-secondary{ border: 1px solid; border-radius: 7px;margin-right: 12px; padding: 4px; font-size: small;
+	}
